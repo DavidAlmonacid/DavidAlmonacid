@@ -4,9 +4,13 @@
 
 <div align="center"><br />
 
+  <a href="https://github.com/DavidAlmonacid" target="_blank">
+
   ![](https://github-readme-stats.vercel.app/api?username=DavidAlmonacid&hide=issues,contribs&custom_title=My+Stats&count_private=true&show_icons=true&theme=moltack)
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlmonacid&layout=compact&custom_title=My+Languages&langs_count=10&hide=java&theme=moltack)
+
+  </a>
 
 </div>
 
