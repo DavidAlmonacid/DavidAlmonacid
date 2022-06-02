@@ -1,5 +1,4 @@
 ## Welcome to my GitHub profile!
----
 
 - I'm a Frontend Developer. I'm currently studying Software Development at Uniagustiniana.
 
