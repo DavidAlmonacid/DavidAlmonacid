@@ -16,16 +16,3 @@ I'm a Frontend Developer. I'm currently studying Software Development at Uniagus
   <a href="https://t.me/DavidAlmonacid"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:david.almonacidf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
-
-<!-- Example
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div> -->
-
-<!--
-- https://github.com/anuraghazra/github-readme-stats
-- https://github.com/rafaballerini/rafaballerini
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
--->
