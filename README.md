@@ -2,10 +2,12 @@
 
 I'm a Frontend Developer. I'm currently studying Software Development at Uniagustiniana.
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
 <div align="center"><br />
   <a href="https://github.com/DavidAlmonacid">
-    <img src="https://github-readme-stats.vercel.app/api?username=DavidAlmonacid&hide=issues,contribs&custom_title=My+Stats&count_private=true&show_icons=true&theme=slateorange" /><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlmonacid&layout=compact&custom_title=My+Languages&langs_count=10&hide=c%2B%2B&theme=slateorange" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DavidAlmonacid&hide=issues,contribs&custom_title=My+Stats&count_private=true&show_icons=true&theme=aura_dark" /><br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlmonacid&layout=compact&custom_title=My+Languages&langs_count=10&hide=c%2B%2B&theme=aura_dark" />
   </a>
 </div>
 
