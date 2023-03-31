@@ -6,8 +6,8 @@ I'm a Frontend Developer. I'm currently studying Software Development at Uniagus
 
 <div align="center"><br />
   <a href="https://github.com/DavidAlmonacid">
-    <img src="https://github-readme-stats.vercel.app/api?username=DavidAlmonacid&hide=issues,contribs&custom_title=My+Stats&count_private=true&show_icons=true&theme=aura_dark" /><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlmonacid&layout=compact&custom_title=My+Languages&langs_count=10&hide=c%2B%2B&theme=aura_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DavidAlmonacid&hide=issues,contribs&custom_title=My+Stats&count_private=true&show_icons=true&theme=calm" /><br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlmonacid&layout=compact&custom_title=My+Languages&langs_count=10&hide=c%2B%2B&theme=calm" />
   </a>
 </div>
 
