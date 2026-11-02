@@ -8,12 +8,11 @@ I'm a Software Developer, passionate about building robust and scalable solution
 
 ---
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
 <div align="center"><br />
   <a href="https://github.com/DavidAlmonacid">
-    <img src="https://github-readme-stats.vercel.app/api?username=DavidAlmonacid&hide=issues,contribs&custom_title=My+Stats&show_icons=true&theme=calm" /><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAlmonacid&layout=compact&custom_title=My+Languages&theme=calm" />
+    <!-- https://github.com/stats-organization/github-stats-extended -->
+    <img src="https://github-stats-extended.vercel.app/api?username=DavidAlmonacid&custom_title=My+Stats&show_icons=true&theme=gruvbox" /><br />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DavidAlmonacid&layout=compact&custom_title=My+Languages&theme=gruvbox" />
   </a>
 </div>
 
